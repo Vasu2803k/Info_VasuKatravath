@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @i-am-VasuKatravath
-- 👀 I’m interested in ...
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on ML Projects
 - 📫 Reach me on https://www.linkedin.com/in/katravathvasu/ -link for Linkedin profile and instagram ID @vasu__rathod_ or twitter @vasu_katravath
