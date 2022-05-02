@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @i-am-VasuKatravath
+- 👋 Hi, I’m @VasuKatravath
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on ML Projects
